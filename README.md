@@ -35,7 +35,7 @@
 
 ---
 
-<img align="left" alt="jhetut's Github Stats" src="https://github-readme-status.vercel.app/api?username=jhetuts&show_icons=true&hide_border=true" />
+<img align="left" alt="jhetut's Github Stats" src="https://github-readme-status.vercel.app/api?username=jhetuts&show_icons=true&hide_border=true&theme=tokyonight" />
 
 [linkedin]: https://www.linkedin.com/in/alejandro-cartojano-jr/
 [twitter]: https://twitter.com/jhetuts
