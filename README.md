@@ -7,7 +7,7 @@
 - I'm open for a team to contribute 🔭
 - I love exploring other technologies! 🏄
 
-## Competencies
+## Competencies:
 
 [<img src="https://img.icons8.com/bubbles/50/000000/react.png"/>][reactjs]
 [<img src="https://img.icons8.com/color/48/000000/redux.png"/>][redux]
@@ -25,10 +25,13 @@
 
 ## Connect with me:
 
-[<img width="22px" align="left" src="https://img.icons8.com/android/24/000000/linkedin.png"/>][https://www.linkedin.com/in/alejandro-cartojano-jr/]
-[<img width="22px" align="left" src="https://img.icons8.com/android/24/000000/twitter.png"/>][https://twitter.com/jhetuts]
-[<img width="22px" align="left" src="https://img.icons8.com/metro/26/000000/email.png"/>][mailto: alejandro.cartojano@gmail.com]
+[<img width="22px" align="left" src="https://img.icons8.com/android/24/000000/linkedin.png"/>][linkedin]
+[<img width="22px" align="left" src="https://img.icons8.com/android/24/000000/twitter.png"/>][twitter]
+[<img width="22px" align="left" src="https://img.icons8.com/metro/26/000000/email.png"/>][email]
 
+[linkedin]: https://www.linkedin.com/in/alejandro-cartojano-jr/
+[twitter]: https://twitter.com/jhetuts
+[email]: mailto:alejandro.cartojano@gmail.com
 [reactjs]: https://reactjs.org/
 [redux]: https://redux.js.org/
 [angular]: https://angular.io/
