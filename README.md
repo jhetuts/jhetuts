@@ -41,6 +41,8 @@
 <br />
 <br />
 
+## Recent Activities:
+
 <!--START_SECTION:activity-->
 
 [linkedin]: https://www.linkedin.com/in/alejandro-cartojano-jr/
