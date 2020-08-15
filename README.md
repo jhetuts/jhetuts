@@ -6,6 +6,7 @@
 - I love functional programming, so does OOP 👌
 - I'm open for a team to contribute 🔭
 - I love exploring other technologies! 🏄
+- Fun Fact: I love to reuse, reuse and reuse codes! ♻️
 
 ## Competencies:
 
@@ -36,6 +37,11 @@
 ---
 
 <img align="left" alt="jhetut's Github Stats" src="https://github-readme-status.vercel.app/api?username=jhetuts&show_icons=true&hide_border=true&theme=tokyonight" />
+
+<br />
+<br />
+
+<!--START_SECTION:activity-->
 
 [linkedin]: https://www.linkedin.com/in/alejandro-cartojano-jr/
 [twitter]: https://twitter.com/jhetuts
