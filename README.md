@@ -1,6 +1,6 @@
 ### Hi there, I'm Jay-r - web developer from 🇵🇭! 🔛
 
-# I'm front-end, back-end, web enthusiast, risk taker, fun, strange, friend etc...
+# I'm front-end, back-end, web enthusiast, risk taker, fun, strange, a friend etc...
 
 - I'm currently working some personal tech stuff 🚀
 - I love functional programming, so does OOP 👌
@@ -43,9 +43,6 @@
 4. 🎉 Merged PR [#3](https://github.com//jhetuts/React-Apps/pull/3) in [jhetuts/React-Apps](https://github.com//jhetuts/React-Apps)
 5. 🎉 Merged PR [#2](https://github.com//jhetuts/React-Apps/pull/2) in [jhetuts/React-Apps](https://github.com//jhetuts/React-Apps)
 <!--END_SECTION:activity-->
-
-<br />
-<br />
 
 ---
 
