@@ -37,11 +37,11 @@
 ## 📅 Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com//GetStream/stream-chat-react/issues/35) in [GetStream/stream-chat-react](https://github.com//GetStream/stream-chat-react)
-2. 🎉 Merged PR [#2](https://github.com//jhetuts/mern-authentication/pull/2) in [jhetuts/mern-authentication](https://github.com//jhetuts/mern-authentication)
-3. 🎉 Merged PR [#1](https://github.com//jhetuts/mern-authentication/pull/1) in [jhetuts/mern-authentication](https://github.com//jhetuts/mern-authentication)
-4. 🎉 Merged PR [#4](https://github.com//jhetuts/React-Apps/pull/4) in [jhetuts/React-Apps](https://github.com//jhetuts/React-Apps)
-5. 🎉 Merged PR [#3](https://github.com//jhetuts/React-Apps/pull/3) in [jhetuts/React-Apps](https://github.com//jhetuts/React-Apps)
+1. 🗣 Commented on [#426](https://github.com//GetStream/stream-chat-js/issues/426) in [GetStream/stream-chat-js](https://github.com//GetStream/stream-chat-js)
+2. 🗣 Commented on [#306](https://github.com//GetStream/stream-chat-js/issues/306) in [GetStream/stream-chat-js](https://github.com//GetStream/stream-chat-js)
+3. ❗️ Opened issue [#426](https://github.com//GetStream/stream-chat-js/issues/426) in [GetStream/stream-chat-js](https://github.com//GetStream/stream-chat-js)
+4. 🗣 Commented on [#35](https://github.com//GetStream/stream-chat-react/issues/35) in [GetStream/stream-chat-react](https://github.com//GetStream/stream-chat-react)
+5. 🎉 Merged PR [#2](https://github.com//jhetuts/mern-authentication/pull/2) in [jhetuts/mern-authentication](https://github.com//jhetuts/mern-authentication)
 <!--END_SECTION:activity-->
 
 ---
