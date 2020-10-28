@@ -37,11 +37,11 @@
 ## 📅 Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1022](https://github.com/react-dropzone/react-dropzone/issues/1022) in [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone)
-2. 🗣 Commented on [#1022](https://github.com/react-dropzone/react-dropzone/issues/1022) in [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone)
-3. 🗣 Commented on [#266](https://github.com/froala/react-froala-wysiwyg/issues/266) in [froala/react-froala-wysiwyg](https://github.com/froala/react-froala-wysiwyg)
-4. ❗️ Opened issue [#266](https://github.com/froala/react-froala-wysiwyg/issues/266) in [froala/react-froala-wysiwyg](https://github.com/froala/react-froala-wysiwyg)
-5. 🗣 Commented on [#427](https://github.com/GetStream/stream-chat-js/issues/427) in [GetStream/stream-chat-js](https://github.com/GetStream/stream-chat-js)
+1. 🎉 Merged PR [#1](https://github.com/jhetuts/agenda-dynamic-calendar/pull/1) in [jhetuts/agenda-dynamic-calendar](https://github.com/jhetuts/agenda-dynamic-calendar)
+2. 💪 Opened PR [#1](https://github.com/jhetuts/agenda-dynamic-calendar/pull/1) in [jhetuts/agenda-dynamic-calendar](https://github.com/jhetuts/agenda-dynamic-calendar)
+3. 🗣 Commented on [#1022](https://github.com/react-dropzone/react-dropzone/issues/1022) in [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone)
+4. 🗣 Commented on [#1022](https://github.com/react-dropzone/react-dropzone/issues/1022) in [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone)
+5. 🗣 Commented on [#266](https://github.com/froala/react-froala-wysiwyg/issues/266) in [froala/react-froala-wysiwyg](https://github.com/froala/react-froala-wysiwyg)
 <!--END_SECTION:activity-->
 
 ---
